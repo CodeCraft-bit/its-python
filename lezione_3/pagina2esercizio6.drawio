@@ -1,0 +1,129 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="26.0.9">
+  <diagram name="Page-1" id="5wRrpZdkbtzNgrpAYr4Z">
+    <mxGraphModel dx="2284" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-1" target="Hi_TFPdRR4dqpDG17gam-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-2" target="Hi_TFPdRR4dqpDG17gam-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-2" value="read x" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-4" target="Hi_TFPdRR4dqpDG17gam-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-17" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hi_TFPdRR4dqpDG17gam-16">
+          <mxGeometry x="-0.1333" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-4" target="Hi_TFPdRR4dqpDG17gam-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="306" />
+              <mxPoint x="670" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-4" value="if x&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="266" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-9" target="Hi_TFPdRR4dqpDG17gam-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-27" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hi_TFPdRR4dqpDG17gam-24">
+          <mxGeometry x="-0.075" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-9" target="Hi_TFPdRR4dqpDG17gam-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-9" value="if i &amp;lt; 10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="492" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-15" target="Hi_TFPdRR4dqpDG17gam-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="410" />
+              <mxPoint x="410" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-15" value="i = 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="276" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-19" value="read n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-23" target="Hi_TFPdRR4dqpDG17gam-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-28" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hi_TFPdRR4dqpDG17gam-26">
+          <mxGeometry x="0.05" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-23" target="Hi_TFPdRR4dqpDG17gam-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-31" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hi_TFPdRR4dqpDG17gam-30">
+          <mxGeometry x="-0.175" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-23" value="x %2==0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="492" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-25" target="Hi_TFPdRR4dqpDG17gam-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-25" value="n&amp;gt; x/2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="652" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-29" target="Hi_TFPdRR4dqpDG17gam-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-29" value="if n&amp;lt;x" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="492" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-32" value="sum pari = sum pari + n" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="794" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-34" target="Hi_TFPdRR4dqpDG17gam-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="890" />
+              <mxPoint x="590" y="890" />
+              <mxPoint x="590" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-34" value="sum dispari = sum dispari + n" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="662" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-36" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hi_TFPdRR4dqpDG17gam-37" target="Hi_TFPdRR4dqpDG17gam-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hi_TFPdRR4dqpDG17gam-37" value="write sum pari,sum dispari" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
