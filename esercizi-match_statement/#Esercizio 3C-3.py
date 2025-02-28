@@ -14,6 +14,6 @@ match oggetti:
     case ["sedia", "tavolo", "armadio"]:
         print("Mobili")
     case ["telefono", "computer", "tablet"]:
-        print ("Dispositivi elettronici")
+        print("Dispositivi elettronici")
     case _:
         print("Categoria sconosciuta")
