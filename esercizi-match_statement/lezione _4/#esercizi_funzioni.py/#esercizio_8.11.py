@@ -1,4 +1,4 @@
-#esercizio_8.10
+#esercizio_8.11
 
 
 message_list:str = ["Ciao", "come", "stai"]
